@@ -1,0 +1,130 @@
+INFO request: GET http://127.0.0.1:8000/api/entries/ - Processed in 0.0038s.
+INFO request: GET http://127.0.0.1:8000/ - Processed in 0.0119s.
+INFO request: GET http://127.0.0.1:8000/docs - Processed in 0.0006s.
+INFO request: GET http://127.0.0.1:8000/openapi.json - Processed in 0.0107s.
+INFO request: GET http://127.0.0.1:8000/api/authors/ - Processed in 0.0030s.
+INFO request: GET http://127.0.0.1:8000/api/authors/1 - Processed in 0.0029s.
+ERRO request: GET http://127.0.0.1:8000/api/authors/7 - Processed in 0.0028s.
+INFO request: GET http://127.0.0.1:8000/docs - Processed in 0.0003s.
+INFO request: GET http://127.0.0.1:8000/openapi.json - Processed in 0.0061s.
+Request Body: {
+  "name": "string",
+  "email": ""
+}.
+INFO request: GET http://127.0.0.1:8000/docs - Processed in 0.0003s.
+INFO request: GET http://127.0.0.1:8000/openapi.json - Processed in 0.0060s.
+Request Body: {
+  "name": "string",
+  "email": ""
+}.
+INFO request: GET http://127.0.0.1:8000/docs - Processed in 0.0004s.
+INFO request: GET http://127.0.0.1:8000/openapi.json - Processed in 0.0060s.
+Request Body: {
+  "name": "string",
+  "email": ""
+}.
+INFO request: GET http://127.0.0.1:8000/docs - Processed in 0.0006s.
+INFO request: GET http://127.0.0.1:8000/openapi.json - Processed in 0.0063s.
+Request Body: {
+  "name": "string",
+  "email": ""
+}.
+INFO request: GET http://127.0.0.1:8000/docs - Processed in 0.0003s.
+INFO request: GET http://127.0.0.1:8000/openapi.json - Processed in 0.0064s.
+Request Body: {
+"id": 3,
+  "name": "Updated Author Name",
+  "email": "updated_email@example.com"
+}.
+ERRO request: PUT http://127.0.0.1:8000/api/authors/1 - Processed in 0.0105s.
+INFO request: GET http://127.0.0.1:8000/docs - Processed in 0.0003s.
+INFO request: GET http://127.0.0.1:8000/openapi.json - Processed in 0.0060s.
+Request Body: {
+  "id": 3,
+  "name": "Updated Author Name",
+  "email": "updated_email@example.com"
+}.
+ERRO request: PUT http://127.0.0.1:8000/api/authors/1 - Processed in 0.0138s.
+INFO request: GET http://127.0.0.1:8000/docs - Processed in 0.0003s.
+INFO request: GET http://127.0.0.1:8000/openapi.json - Processed in 0.0061s.
+Request Body: {
+  "id": 3,
+  "name": "Updated Author Name",
+  "email": "updated_email@example.com"
+}.
+ERRO request: PUT http://127.0.0.1:8000/api/authors/1 - Processed in 0.0140s.
+INFO request: GET http://127.0.0.1:8000/docs - Processed in 0.0003s.
+INFO request: GET http://127.0.0.1:8000/openapi.json - Processed in 0.0071s.
+Request Body: {
+  "id": 3,
+  "name": "Updated Author Name",
+  "email": "updated_email@example.com"
+}.
+ERRO request: PUT http://127.0.0.1:8000/api/authors/1 - Processed in 0.0090s.
+INFO request: GET http://127.0.0.1:8000/docs - Processed in 0.0003s.
+INFO request: GET http://127.0.0.1:8000/openapi.json - Processed in 0.0065s.
+Request Body: {
+  "id": 3,
+  "name": "Updated Author Name",
+  "email": "updated_email@example.com"
+}.
+ERRO request: PUT http://127.0.0.1:8000/api/authors/1 - Processed in 0.0144s.
+INFO request: GET http://127.0.0.1:8000/docs - Processed in 0.0004s.
+INFO request: GET http://127.0.0.1:8000/openapi.json - Processed in 0.0061s.
+Request Body: {
+  "id": 3,
+  "name": "Updated Author Name",
+  "email": "updated_email@example.com"
+}.
+WARN request: PUT http://127.0.0.1:8000/api/authors/1 - Processed in 0.0024s.
+INFO request: GET http://127.0.0.1:8000/docs - Processed in 0.0003s.
+INFO request: GET http://127.0.0.1:8000/openapi.json - Processed in 0.0063s.
+Request Body: {
+  "name": "string",
+  "email": ""
+}.
+INFO request: GET http://127.0.0.1:8000/docs - Processed in 0.0004s.
+INFO request: GET http://127.0.0.1:8000/openapi.json - Processed in 0.0061s.
+Request Body: {
+  "name": "string",
+  "email": ""
+}.
+INFO request: GET http://127.0.0.1:8000/docs - Processed in 0.0003s.
+INFO request: GET http://127.0.0.1:8000/openapi.json - Processed in 0.0062s.
+INFO request: GET http://127.0.0.1:8000/docs - Processed in 0.0003s.
+INFO request: GET http://127.0.0.1:8000/openapi.json - Processed in 0.0004s.
+Request Body: {
+  "name": "string",
+  "email": ""
+}.
+INFO request: GET http://127.0.0.1:8000/docs - Processed in 0.0004s.
+INFO request: GET http://127.0.0.1:8000/openapi.json - Processed in 0.0094s.
+INFO request: GET http://127.0.0.1:8000/api/authors/ - Processed in 0.0189s.
+Request Body: {
+  "name": "string",
+  "email": ""
+}.
+INFO request: GET http://127.0.0.1:8000/docs - Processed in 0.0004s.
+INFO request: GET http://127.0.0.1:8000/openapi.json - Processed in 0.0060s.
+Request Body: {
+  "name": "string",
+  "email": ""
+}.
+INFO request: GET http://127.0.0.1:8000/docs - Processed in 0.0003s.
+INFO request: GET http://127.0.0.1:8000/openapi.json - Processed in 0.0077s.
+Request Body: {
+  "name": "string",
+  "email": ""
+}.
+INFO request: GET http://127.0.0.1:8000/docs - Processed in 0.0004s.
+INFO request: GET http://127.0.0.1:8000/openapi.json - Processed in 0.0063s.
+Request Body: {
+  "name": "string",
+  "email": ""
+}.
+INFO request: GET http://127.0.0.1:8000/docs - Processed in 0.0003s.
+INFO request: GET http://127.0.0.1:8000/openapi.json - Processed in 0.0064s.
+Request Body: {
+  "name": "string",
+  "email": ""
+}.
